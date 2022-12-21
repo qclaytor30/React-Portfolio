@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 300 11px/1.4 'Sans Sara';
+  font: 300 11px/1.4 'Sans Sara', 'sans-serif';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #10103d;
