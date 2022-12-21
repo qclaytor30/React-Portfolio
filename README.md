@@ -9,4 +9,6 @@ My task was to create a portfolio, using my new React skills to help set me apar
 ## Access
 [GitHub Repository](https://github.com/qclaytor30/React-Portfolio)
 
+[GitHub Pages](https://qclaytor30.github.io/React-Portfolio/)
+
 Run ```npm start``` to run app.
