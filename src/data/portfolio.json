@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "iNeedAdrink",
+            "description": "HTML, CSS, JavaScript, jQuery",
+            "url": "https://charliec1665.github.io/wind-hawks/"
+        },
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Around The World Blog",
+            "description": "express, handlebars, JavaScript",
+            "url": "https://around-the-world-pro-max.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": "Work Day Scheduler",
+            "description": "moment.js, HTML, CSS, jQuery",
+            "url": "https://qclaytor30.github.io/module-5-challenge/"
+        },
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "Password Generator",
+            "description": "JavaScript",
+            "url": "https://qclaytor30.github.io/module-3-challenge/"
+        }
+    ]
+}
