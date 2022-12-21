@@ -105,9 +105,10 @@
                 font-size: 15px;
                 line-height: 16px;
                 color: #4d4d4e;
-
                 &:hover {
+                    .anchor-icon {
                     color: #ecca08;
+                    }
                 }
             }
         }
